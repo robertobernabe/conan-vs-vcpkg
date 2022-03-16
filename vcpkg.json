@@ -1,0 +1,7 @@
+{
+    "name": "cpp-conan-vs-vcpkg",
+    "version-string": "0.0.1",
+    "dependencies": [
+      "poco"
+    ]
+  }
